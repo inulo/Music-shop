@@ -17,7 +17,7 @@ const context = {
     },
     {
       image: 'https://content.codecademy.com/courses/learn-handlebars/musicon/bass-guitar.png',
-      name: 'Baixo',
+      name: 'Bass guitar',
       description: 'Experimente a personificação de frequências funkadelic que é o baixo. Deixe as notas graves profundas do baixo ressoar com os batimentos cardíacos em todos os lugares.',
       price: '€624.99'
     },
