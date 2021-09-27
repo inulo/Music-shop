@@ -125,12 +125,12 @@ nav {
   padding: 2%;
 }
 
-.name, .description, .Promoção, del {
+.name, .description, .sale, del {
   color: #000000;
   text-align: left;
 }
 
-.description, .preço {
+.description, .price {
   margin-top: 0;
   margin-bottom: 16px;
 }
@@ -141,13 +141,13 @@ nav {
   overflow: auto;
 }
 
-.preço {
+.price {
   margin: 0;
   font-size: 16px;
   font-weight: bold;
 }
 
-.Promoção {
+.sale {
   margin-top: 0;
   margin-bottom: 0;
   color: #fa4359;
