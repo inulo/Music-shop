@@ -125,7 +125,7 @@ nav {
   padding: 2%;
 }
 
-.name, .description, .sale, del {
+.name, .description, .price, del {
   color: #000000;
   text-align: left;
 }
