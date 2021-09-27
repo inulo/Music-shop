@@ -1,6 +1,6 @@
 const context = {
   title: 'Bem-vindo ao Ritmon',
-  body: 'Musicon é uma loja musical em desenvolvimento com a missão de compartilhar a alegria da música. Essas magníficas ferramentas auditivas são projetadas com criadores musicais, como você, em mente. Hobbyists, iniciantes e especialistas podem apreciar os sons resplandecentes fornecidos por cada um dos instrumentos que carregamos. Junte-se a nós para entregar as vibrações eufóricas da melodia aos cidadãos do mundo!',
+  body: 'Ritmon é uma loja musical em desenvolvimento com a missão de compartilhar a alegria da música. Essas magníficas ferramentas auditivas são projetadas com criadores musicais, como você, em mente. Hobbyists, iniciantes e especialistas podem apreciar os sons resplandecentes fornecidos por cada um dos instrumentos que carregamos. Junte-se a nós para entregar as vibrações eufóricas da melodia aos cidadãos do mundo!',
   instruments: [
     {
       image: 'https://content.codecademy.com/courses/learn-handlebars/musicon/electronic-keyboard.png',
